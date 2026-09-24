@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+.freebuff/
+screenshots/
+visual-qa/
+*.tsbuildinfo
+*.log
